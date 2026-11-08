@@ -1,0 +1,237 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Charizard",
+      "pokedexId": 6,
+      "type": "Fire",
+      "rarity": "Holo Rare",
+      "set": "Base Set",
+      "hp": 120,
+      "price": 2500000,
+      "stock": 3,
+      "description": "Rồng lửa huyền thoại. Lá bài được săn đón nhất của bộ Base Set, mặt holo sáng đẹp."
+    },
+    {
+      "id": 2,
+      "name": "Blastoise",
+      "pokedexId": 9,
+      "type": "Water",
+      "rarity": "Holo Rare",
+      "set": "Base Set",
+      "hp": 100,
+      "price": 1800000,
+      "stock": 4,
+      "description": "Pokémon pháo nước, chiêu Rain Dance giúp hồi năng lượng nhanh cho cả đội."
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "pokedexId": 3,
+      "type": "Grass",
+      "rarity": "Holo Rare",
+      "set": "Base Set",
+      "hp": 100,
+      "price": 1500000,
+      "stock": 5,
+      "description": "Hoa đại thụ với chiêu Energy Trans, hợp bộ bài hệ Cỏ."
+    },
+    {
+      "id": 4,
+      "name": "Pikachu",
+      "pokedexId": 25,
+      "type": "Electric",
+      "rarity": "Common",
+      "set": "Jungle",
+      "hp": 40,
+      "price": 150000,
+      "stock": 25,
+      "description": "Chú chuột điện đáng yêu, lá bài nhập môn của mọi nhà sưu tập."
+    },
+    {
+      "id": 5,
+      "name": "Raichu",
+      "pokedexId": 26,
+      "type": "Electric",
+      "rarity": "Rare",
+      "set": "Base Set",
+      "hp": 90,
+      "price": 550000,
+      "stock": 9,
+      "description": "Tiến hóa của Pikachu, đòn Thunder gây sát thương lớn."
+    },
+    {
+      "id": 6,
+      "name": "Mewtwo",
+      "pokedexId": 150,
+      "type": "Psychic",
+      "rarity": "Ultra Rare",
+      "set": "Base Set",
+      "hp": 60,
+      "price": 3200000,
+      "stock": 2,
+      "description": "Pokémon nhân bản với sức mạnh tâm linh vượt trội, lá bài mạnh bậc nhất."
+    },
+    {
+      "id": 7,
+      "name": "Mew",
+      "pokedexId": 151,
+      "type": "Psychic",
+      "rarity": "Secret Rare",
+      "set": "Fossil",
+      "hp": 50,
+      "price": 4800000,
+      "stock": 1,
+      "description": "Pokémon huyền thoại hiếm gặp, chỉ còn đúng một lá trong kho."
+    },
+    {
+      "id": 8,
+      "name": "Gyarados",
+      "pokedexId": 130,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "Base Set",
+      "hp": 100,
+      "price": 600000,
+      "stock": 8,
+      "description": "Hải long hung dữ, tiến hóa từ chú cá Magikarp yếu ớt."
+    },
+    {
+      "id": 9,
+      "name": "Vaporeon",
+      "pokedexId": 134,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "Jungle",
+      "hp": 60,
+      "price": 300000,
+      "stock": 12,
+      "description": "Tiến hóa hệ Nước của Eevee, chiêu Bubblebeam làm tê liệt đối thủ."
+    },
+    {
+      "id": 10,
+      "name": "Eevee",
+      "pokedexId": 133,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "Jungle",
+      "hp": 50,
+      "price": 120000,
+      "stock": 30,
+      "description": "Pokémon tiến hóa linh hoạt, dễ dùng trong nhiều kiểu bộ bài."
+    },
+    {
+      "id": 11,
+      "name": "Gengar",
+      "pokedexId": 94,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "Fossil",
+      "hp": 80,
+      "price": 350000,
+      "stock": 10,
+      "description": "Bóng ma tinh nghịch, chiêu Dark Mind né đòn rất khó chịu."
+    },
+    {
+      "id": 12,
+      "name": "Snorlax",
+      "pokedexId": 143,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "Jungle",
+      "hp": 90,
+      "price": 450000,
+      "stock": 7,
+      "description": "Gã khổng lồ ham ngủ, chịu đòn cực tốt."
+    },
+    {
+      "id": 13,
+      "name": "Lucario",
+      "pokedexId": 448,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "Diamond & Pearl",
+      "hp": 90,
+      "price": 700000,
+      "stock": 6,
+      "description": "Chiến binh sóng aura, rất được ưa chuộng ở các giải đấu."
+    },
+    {
+      "id": 14,
+      "name": "Umbreon",
+      "pokedexId": 197,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "Neo Discovery",
+      "hp": 70,
+      "price": 900000,
+      "stock": 5,
+      "description": "Tiến hóa hệ Bóng tối của Eevee với vòng sáng vàng đặc trưng."
+    },
+    {
+      "id": 15,
+      "name": "Rayquaza",
+      "pokedexId": 384,
+      "type": "Colorless",
+      "rarity": "Ultra Rare",
+      "set": "EX Deoxys",
+      "hp": 100,
+      "price": 2900000,
+      "stock": 2,
+      "description": "Rồng trời huyền thoại ở tầng bình lưu, lá bài trưng bày ấn tượng."
+    },
+    {
+      "id": 16,
+      "name": "Lugia",
+      "pokedexId": 249,
+      "type": "Colorless",
+      "rarity": "Holo Rare",
+      "set": "Neo Genesis",
+      "hp": 90,
+      "price": 1700000,
+      "stock": 3,
+      "description": "Thủ lĩnh của biển cả, cánh trắng bạc mặt holo rực rỡ."
+    },
+    {
+      "id": 17,
+      "name": "Machamp",
+      "pokedexId": 68,
+      "type": "Fighting",
+      "rarity": "Holo Rare",
+      "set": "Base Set",
+      "hp": 100,
+      "price": 1100000,
+      "stock": 4,
+      "description": "Võ sĩ bốn tay với sức mạnh phi thường."
+    },
+    {
+      "id": 18,
+      "name": "Arcanine",
+      "pokedexId": 59,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "Base Set",
+      "hp": 100,
+      "price": 380000,
+      "stock": 11,
+      "description": "Chú chó lửa trung thành, tốc độ nhanh như gió."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "name": "Quản trị viên",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user123",
+      "name": "Ash Ketchum",
+      "role": "user"
+    }
+  ],
+  "orders": []
+}
